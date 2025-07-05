@@ -28,13 +28,13 @@ A powerful Python script for domain reconnaissance that includes:
 2. Install required dependencies:
    pip install requests
 3. Download the script:
-   git clone https://github.com/yourusername/domain-recon-toolkit.git
-   cd domain-recon-toolkit
+   git clone https://github.com/dipeshjatt2/Scer
+   cd Scer
 
 ■ USAGE
 ■──────
 Run the script:
-python domain_recon.py
+python scer.py
 
 Main Menu Options:
 1. Fetch domains by keyword (crt.sh)
